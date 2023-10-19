@@ -41,7 +41,7 @@ To get started with Car Showcase, follow these steps:
 
 ## Technology Stack
 
-- **Frontend**: Next.js, React, HTML, CSS
+- **Frontend**: Next.js,TypeScript, React, HTML, CSS
 - **Data Fetching**: Server Side Rendering (SSR), Static Site Generation (SSG), Incremental Static Generation (ISR)
 - **Deployment**: Vercel or your preferred hosting service
 
