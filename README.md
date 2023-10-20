@@ -3,6 +3,10 @@
 
 Car Showcase is a dynamic web application developed with Next.js, designed for car enthusiasts and potential buyers. It provides an interactive platform for exploring and displaying various car models, offering a user-friendly experience with efficient data fetching methods.
 
+![Screenshot 2023-10-19 at 10 41 21 PM](https://github.com/876-samurai/CarHub/assets/90914139/413e40cd-902d-4909-b5e9-0a2a7af5b8aa)
+
+![Screenshot 2023-10-19 at 10 41 41 PM](https://github.com/876-samurai/CarHub/assets/90914139/555d7394-e90d-4257-b6cf-e973b08ad0a5)
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
